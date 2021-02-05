@@ -1,0 +1,17 @@
+将本地文件提交到远程仓库
+https://blog.csdn.net/qq_24682353/article/details/94980381
+Git 删除仓库
+https://www.cnblogs.com/forget406/p/6045213.html
+
+
+将当前目录变成可管理的仓库  git init
+
+将文件夹所有文件添加到仓库  git add .
+
+将某个文件添加到仓库  git add file
+
+添加完成后进行提交  git commit -m "add all file"
+
+将本地仓库与远程仓库关联  git remote add origin git@github.com:HateHanzo/YourProject.git
+
+将最新修改推送到远程仓库  git push -u origin master
