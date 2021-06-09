@@ -15,3 +15,5 @@ https://www.cnblogs.com/forget406/p/6045213.html
 将本地仓库与远程仓库关联  git remote add origin git@github.com:HateHanzo/YourProject.git
 
 将最新修改推送到远程仓库  git push -u origin master
+
+从远程仓库克隆文件到本地 git clone git@github.com:HateHanzo/YourProject.git
