@@ -17,3 +17,5 @@ https://www.cnblogs.com/forget406/p/6045213.html
 将最新修改推送到远程仓库  git push -u origin master
 
 从远程仓库克隆文件到本地 git clone git@github.com:HateHanzo/YourProject.git
+
+忽略本地提交的文件：创建 .gitignore文件，将不需要提交的文件名字写入该文件，然后将该文件提交到git
