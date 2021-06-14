@@ -19,3 +19,5 @@ https://www.cnblogs.com/forget406/p/6045213.html
 从远程仓库克隆文件到本地 git clone git@github.com:HateHanzo/YourProject.git
 
 忽略本地提交的文件：创建 .gitignore文件，将不需要提交的文件名字写入该文件，然后将该文件提交到git
+
+单纯的本地删除文件，然后恢复git checkout -- "file"
